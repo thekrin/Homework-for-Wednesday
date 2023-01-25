@@ -1,0 +1,14 @@
+C:\Users\newego\source\repos\Homework for 3thDay\Homework for 3thDay\obj\Debug\netcoreapp3.1\Homework for 3thDay.csproj.AssemblyReference.cache
+C:\Users\newego\source\repos\Homework for 3thDay\Homework for 3thDay\obj\Debug\netcoreapp3.1\Homework for 3thDay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\newego\source\repos\Homework for 3thDay\Homework for 3thDay\obj\Debug\netcoreapp3.1\Homework for 3thDay.AssemblyInfoInputs.cache
+C:\Users\newego\source\repos\Homework for 3thDay\Homework for 3thDay\obj\Debug\netcoreapp3.1\Homework for 3thDay.AssemblyInfo.cs
+C:\Users\newego\source\repos\Homework for 3thDay\Homework for 3thDay\obj\Debug\netcoreapp3.1\Homework for 3thDay.csproj.CoreCompileInputs.cache
+C:\Users\newego\source\repos\Homework for 3thDay\Homework for 3thDay\bin\Debug\netcoreapp3.1\Homework for 3thDay.exe
+C:\Users\newego\source\repos\Homework for 3thDay\Homework for 3thDay\bin\Debug\netcoreapp3.1\Homework for 3thDay.deps.json
+C:\Users\newego\source\repos\Homework for 3thDay\Homework for 3thDay\bin\Debug\netcoreapp3.1\Homework for 3thDay.runtimeconfig.json
+C:\Users\newego\source\repos\Homework for 3thDay\Homework for 3thDay\bin\Debug\netcoreapp3.1\Homework for 3thDay.runtimeconfig.dev.json
+C:\Users\newego\source\repos\Homework for 3thDay\Homework for 3thDay\bin\Debug\netcoreapp3.1\Homework for 3thDay.dll
+C:\Users\newego\source\repos\Homework for 3thDay\Homework for 3thDay\bin\Debug\netcoreapp3.1\Homework for 3thDay.pdb
+C:\Users\newego\source\repos\Homework for 3thDay\Homework for 3thDay\obj\Debug\netcoreapp3.1\Homework for 3thDay.dll
+C:\Users\newego\source\repos\Homework for 3thDay\Homework for 3thDay\obj\Debug\netcoreapp3.1\Homework for 3thDay.pdb
+C:\Users\newego\source\repos\Homework for 3thDay\Homework for 3thDay\obj\Debug\netcoreapp3.1\Homework for 3thDay.genruntimeconfig.cache
